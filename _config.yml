@@ -26,8 +26,7 @@ author:
   name             : "徐军忠 Xu Junzhong"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "上海市闵行区东川路800号
-  智能电网大楼404室"
+  location         : "上海市闵行区东川路800号<br>智能电网大楼404室"
   employer         : "上海交通大学 电气工程学院"
   uri              : # URL
   email            : "junzhongxu@sjtu.edu.cn" 
