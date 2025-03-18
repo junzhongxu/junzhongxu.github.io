@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "徐军忠 Xu Junzhong"
+title: "徐军忠 Xu Junzhong: 上海交通大学 电气工程学院长聘教轨副教授"
 author_profile: true
 redirect_from: 
   - /about/
